@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-This is my own blog website.
+I am making my own website!
 
-Hope you can learn ~~and play~~ here!
+Look forward to it!
